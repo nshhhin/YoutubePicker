@@ -1,0 +1,6 @@
+framework module Pods_YoutubePicker {
+  umbrella header "Pods-YoutubePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
